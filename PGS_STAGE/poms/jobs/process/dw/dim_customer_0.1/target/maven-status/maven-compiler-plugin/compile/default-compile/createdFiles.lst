@@ -1,0 +1,14 @@
+pgs_stage\dim_customer_0_1\DIM_CUSTOMER$ContextProperties.class
+pgs_stage\dim_customer_0_1\DIM_CUSTOMER$row2Struct.class
+pgs_stage\dim_customer_0_1\DIM_CUSTOMER$row3Struct.class
+pgs_stage\dim_customer_0_1\DIM_CUSTOMER$1Var__tMap_1__Struct.class
+pgs_stage\dim_customer_0_1\DIM_CUSTOMER$TalendException.class
+pgs_stage\dim_customer_0_1\DIM_CUSTOMER$PropertiesWithType.class
+pgs_stage\dim_customer_0_1\DIM_CUSTOMER$1.class
+pgs_stage\dim_customer_0_1\DIM_CUSTOMER$1ContextProcessing.class
+pgs_stage\dim_customer_0_1\DIM_CUSTOMER.class
+pgs_stage\dim_customer_0_1\DIM_CUSTOMER$1KeyStruct_tUniqRow_1.class
+pgs_stage\dim_customer_0_1\DIM_CUSTOMER$after_tDBInput_1Struct.class
+pgs_stage\dim_customer_0_1\DIM_CUSTOMER$out1Struct.class
+pgs_stage\dim_customer_0_1\DIM_CUSTOMER$row1Struct.class
+pgs_stage\dim_customer_0_1\DIM_CUSTOMER$1LimitBytesHelper_tDBOutput_1.class

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin">
+  <deletedFolders>process/dw/dw</deletedFolders>
+  <deletedItems id="_H_m1AERHEe-qS5y1asJu7Q" path="dw" type="PROCESS"/>
+  <deletedItems id="_tiWOkEWwEe-2M9G1i2D4mg" path="dw" type="PROCESS"/>
+  <deletedItems id="_wFiVwEU8Ee-2M9G1i2D4mg" path="dw" type="PROCESS"/>
+  <deletedItems id="_7eeK0FGbEe-ftvnqUTVPZA" path="test_deployment" type="PROCESS"/>
+  <deletedItems id="_wkrWwFGbEe-ftvnqUTVPZA" path="test_deployment" type="PROCESS"/>
+</recyclebin:RecycleBin>

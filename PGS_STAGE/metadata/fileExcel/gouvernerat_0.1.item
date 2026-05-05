@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_uOR-oFDAEe-CCN1yEOik-w" name="gouvernerat" id="_uOOUQFDAEe-CCN1yEOik-w" dataPackage="_uOR-oVDAEe-CCN1yEOik-w" Server="Localhost 127.0.0.1" FilePath="C:/Users/user/Desktop/stage/gouvernorat.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" UseLimit="true" LimitValue="141" FirstLineCaption="true" SheetName="addresses_with_governorates" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="addresses_with_governorates:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_uOR-oVDAEe-CCN1yEOik-w" name="default" dataManager="_uOR-oFDAEe-CCN1yEOik-w">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_uOR-olDAEe-CCN1yEOik-w" id="_pW4x4FDAEe-CCN1yEOik-w" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_uOR-o1DAEe-CCN1yEOik-w" label="ADRESSE" length="40" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_uOR-pFDAEe-CCN1yEOik-w" label="GOUVERNORAT" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
